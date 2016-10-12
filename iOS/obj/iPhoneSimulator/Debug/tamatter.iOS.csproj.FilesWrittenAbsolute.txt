@@ -1,0 +1,16 @@
+/Users/takashitakebayashi/Desktop/vcs/github-myne/xamarin.forms-example/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/takashitakebayashi/Desktop/vcs/github-myne/xamarin.forms-example/iOS/bin/iPhoneSimulator/Debug/tamatteriOS.exe.mdb
+/Users/takashitakebayashi/Desktop/vcs/github-myne/xamarin.forms-example/iOS/bin/iPhoneSimulator/Debug/tamatteriOS.exe
+/Users/takashitakebayashi/Desktop/vcs/github-myne/xamarin.forms-example/iOS/obj/iPhoneSimulator/Debug/tamatteriOS.exe
+/Users/takashitakebayashi/Desktop/vcs/github-myne/xamarin.forms-example/iOS/obj/iPhoneSimulator/Debug/tamatteriOS.exe.mdb
+/Users/takashitakebayashi/Desktop/vcs/github-myne/xamarin.forms-example/iOS/bin/iPhoneSimulator/Debug/Microsoft.WindowsAzure.Mobile.dll
+/Users/takashitakebayashi/Desktop/vcs/github-myne/xamarin.forms-example/iOS/bin/iPhoneSimulator/Debug/Microsoft.WindowsAzure.Mobile.Ext.dll
+/Users/takashitakebayashi/Desktop/vcs/github-myne/xamarin.forms-example/iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Extensions.dll
+/Users/takashitakebayashi/Desktop/vcs/github-myne/xamarin.forms-example/iOS/bin/iPhoneSimulator/Debug/System.Net.Http.Primitives.dll
+/Users/takashitakebayashi/Desktop/vcs/github-myne/xamarin.forms-example/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/takashitakebayashi/Desktop/vcs/github-myne/xamarin.forms-example/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/takashitakebayashi/Desktop/vcs/github-myne/xamarin.forms-example/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/takashitakebayashi/Desktop/vcs/github-myne/xamarin.forms-example/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/takashitakebayashi/Desktop/vcs/github-myne/xamarin.forms-example/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/takashitakebayashi/Desktop/vcs/github-myne/xamarin.forms-example/iOS/bin/iPhoneSimulator/Debug/tamatter.dll
+/Users/takashitakebayashi/Desktop/vcs/github-myne/xamarin.forms-example/iOS/bin/iPhoneSimulator/Debug/tamatter.dll.mdb
